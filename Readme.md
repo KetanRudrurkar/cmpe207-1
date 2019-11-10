@@ -9,6 +9,6 @@ A network monitoring tool which is distributed, AWS Lambda, Python code for on p
 3)	Traveler’s Friend/ Travel Buddy-Ad hoc Profile matching-
 Communication Protocol using VoIP SIP protocol, Transmitter-Receiver Antennas hardware using raspberry pi Wifi.
 
-4)	Chat application with File Transfer for multiple users. 
+4)	Chat application with File Transfer for multiple users
 
 
